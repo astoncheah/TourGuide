@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">"Penang Tour Guide"</string>
+    <string name="hotels">"Hotels"</string>
+    <string name="restaurants">"Restaurants"</string>
+    <string name="tours">"Tours"</string>
+    <string name="shopping">"Shopping"</string>
+
+    <!-- hotel -->
+    <string name="hotel_hel">"Heliconia Hotel"</string>
+    <string name="hotel_hutton">"Hutton Lodge"</string>
+    <string name="hotel_tine">"Tune Hotel Downtown Penang"</string>
+    <string name="hotel_broad">"Broadway Budget Hotel"</string>
+    <string name="hotel_ink">"Ink Hotel"</string>
+    <string name="hotel_g">"G Times Inn"</string>
+    <string name="hotel_super">"Super 8 Hotel"</string>
+
+    <!-- restaurants -->
+    <string name="food_home_cook">"Penang Homecooking School"</string>
+    <string name="food_tour">"Food Tour Penang"</string>
+    <string name="food_simply_enak">"Simply Enak - Food Experiences"</string>
+    <string name="food_tropical_spice">"Tropical Spice Garden Cooking School"</string>
+    <string name="food_nazlina">"Nazlina Spice Station"</string>
+    <string name="food_heritage">"Heritage on a Plate"</string>
+    <string name="food_kuih">"Kuih Nyonya Moh Teng Pheow"</string>
+
+    <!-- tours -->
+    <string name="tours_auch">"Auch Einen Birmesischen"</string>
+    <string name="tours_esca">"Escape Adventure Play"</string>
+    <string name="tours_kek">"Kek Lok Si Monastery"</string>
+    <string name="tours_khoo">"Khoo Kong Si"</string>
+    <string name="tours_museum">"Peranakan Museum"</string>
+    <string name="tours_street">"Street Art"</string>
+    <string name="tours_entopia">"Entopia"</string>
+    <string name="tours_tropical">"Tropical Spice Garden"</string>
+    <string name="tours_penang_hill">"Penang Hill"</string>
+
+    <!-- shopping -->
+    <string name="shopping_gerney_plaza">"Gurney Plaza"</string>
+    <string name="shopping_gerney_paragon">"Gurney Paragon Mall"</string>
+    <string name="shopping_queens">"Queensbay Mall"</string>
+    <string name="shopping_straits">"Straits Quay"</string>
+    <string name="shopping_prangin">"Prangin Mall"</string>
+    <string name="shopping_avenue">"1st Avenue Mall"</string>
+    <string name="shopping_batu">"Batu Ferringhi Night Market"</string>
+</resources>
